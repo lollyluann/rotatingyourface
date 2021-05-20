@@ -1,4 +1,1 @@
-# miniplaces-2
-aaaaaaaaa
-bbbbbbbbb
-ccccccccc
+# Face Frontalization Using Multi-Task Deep Neural Networks
