@@ -11,6 +11,9 @@ Loss values are outputted as plaintext as the model trains, but a util for parsi
 ## Dependencies and Requirements
 
 tensorflow_io
+
 tensorflow_model_optimization
 
 Checkpoint file for LightCNN: [here](https://drive.google.com/file/d/1Jn6aXtQ84WY-7J3Tpr2_j6sX0ch9yucS/view)
+
+Model dependencies for HRNetV2: located in `models/`.
